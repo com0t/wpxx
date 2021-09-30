@@ -1,0 +1,15 @@
+#qni-active-url-preview {
+	position: fixed;
+	bottom: 0;
+	z-index: 999999;
+}
+
+.qni-active-url-preview__url {
+	display: block;
+	margin-top: 20px;
+	padding: 6px 12px;
+	border-radius: 7px;
+	font-style: italic;
+	background-color: #D7E1EC;
+	color: #424242;
+}

@@ -1,0 +1,12 @@
+.qni-main {
+	&.is-loading .components-spinner {
+		display: block;
+		float: none;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.notice {
+		margin-top: 1em;
+	}
+}
